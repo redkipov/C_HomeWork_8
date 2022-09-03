@@ -4,14 +4,14 @@ using System.Threading;
 
 //HomeWork 8 C#
 //Developer by kipov.m.h
-//1.09.2022
+//3.09.2022
 
 namespace HomeWork2
 {
     class Program
     {
         ////////////Глобальные переменные////////////////
-        public const string VerDev = "V.0.2.2";
+        public const string VerDev = "V.0.2.3";
         //////Номер задания//////
         public const string NamberWork = "Home work 8";
         //////Название программ///////
